@@ -15,3 +15,5 @@ this principle states that a class should only have one responsibility. Furtherm
 Classes should be open for extension but closed for modification. 
 In doing so, we stop ourselves from modifying existing code and causing potential new bugs.
 
+### 3- Liskov Substitution
+<u>Principe</u>: if class A is a subtype of class B, we should be able to replace B with A without disrupting the behavior of our program
