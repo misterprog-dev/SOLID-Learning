@@ -11,3 +11,7 @@ The SOLID principles were introduced by Robert C. Martin in his 2000 paper “De
 ### 1- Single Responsibility
 this principle states that a class should only have one responsibility. Furthermore, it should only have one reason to change.
 
+### 2- Open for Extension, Closed for Modification
+Classes should be open for extension but closed for modification. 
+In doing so, we stop ourselves from modifying existing code and causing potential new bugs.
+
