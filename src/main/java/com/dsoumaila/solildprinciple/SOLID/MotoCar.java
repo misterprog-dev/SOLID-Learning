@@ -1,4 +1,4 @@
-package com.dsoumaila.solildprinciple;
+package com.dsoumaila.solildprinciple.SOLID;
 
 public class MotoCar implements Car {
     private Engine engine;

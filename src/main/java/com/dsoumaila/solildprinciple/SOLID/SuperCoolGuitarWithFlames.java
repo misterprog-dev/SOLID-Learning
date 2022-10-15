@@ -1,4 +1,4 @@
-package com.dsoumaila.solildprinciple;
+package com.dsoumaila.solildprinciple.SOLID;
 
 public class SuperCoolGuitarWithFlames extends Guitar{
     private String flameColor;

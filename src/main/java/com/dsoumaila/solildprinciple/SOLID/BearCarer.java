@@ -1,4 +1,4 @@
-package com.dsoumaila.solildprinciple;
+package com.dsoumaila.solildprinciple.SOLID;
 
 public class BearCarer implements BearCleaner, BearFeeder {
     @Override
