@@ -17,3 +17,9 @@ In doing so, we stop ourselves from modifying existing code and causing potentia
 
 ### 3- Liskov Substitution
 <u>Principe</u>: if class A is a subtype of class B, we should be able to replace B with A without disrupting the behavior of our program
+
+### 4- Interface Segregation
+It  means that larger interfaces should be split into smaller ones. 
+By doing so, we can ensure that implementing classes only need to be concerned 
+about the methods that are of interest to them.
+
