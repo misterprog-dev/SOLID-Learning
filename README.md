@@ -23,3 +23,9 @@ It  means that larger interfaces should be split into smaller ones.
 By doing so, we can ensure that implementing classes only need to be concerned 
 about the methods that are of interest to them.
 
+### 5- Dependency Inversion
+The principle of dependency inversion refers to the decoupling of software modules. 
+This way, instead of high-level modules depending on low-level modules, both will depend on abstractions.
+
+
+
